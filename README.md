@@ -1,1 +1,3 @@
-# maLecotte_html_excersice1
+# maLecotte html Excercise 1
+
+https://github.com/maLecotte HTML Excercise 1
